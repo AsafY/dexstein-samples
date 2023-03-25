@@ -1,0 +1,8 @@
+{
+  "name": "dexstein-samples",
+  "license": "MIT",
+  "version": "1.0.0",
+  "dependencies": {
+    "ethers": "^6.2.2"
+  }
+}
